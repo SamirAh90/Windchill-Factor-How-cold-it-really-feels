@@ -1,0 +1,14 @@
+C:\Users\samahm\Desktop\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.exe.config
+C:\Users\samahm\Desktop\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.exe
+C:\Users\samahm\Desktop\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.pdb
+C:\Users\samahm\Desktop\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.csproj.AssemblyReference.cache
+C:\Users\samahm\Desktop\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.csproj.CoreCompileInputs.cache
+C:\Users\samahm\Desktop\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.exe
+C:\Users\samahm\Desktop\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.exe.config
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.exe
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\bin\Debug\WindchillCalc.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.csproj.AssemblyReference.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.csproj.CoreCompileInputs.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.exe
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 2, labbgrupp 32\WindchillCalc\WindchillCalc\obj\Debug\WindchillCalc.pdb
